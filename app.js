@@ -9,6 +9,7 @@ http.createServer(function (req, res) {
 
 console.log('Server running at http://127.0.0.1:'+port);*/
 
-var localTutor=require('./NodeTutorial.js');
-localTutor.NodeTutorial();
-localTutor.NodeTutorial.pTutor();
+
+
+var Addition=require('./Addition.js');
+console.log("Addition of two number="+Addition.AddNumber(1,2));

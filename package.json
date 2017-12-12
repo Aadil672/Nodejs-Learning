@@ -1,6 +1,6 @@
 {
-  "name": "extending_modules",
-  "description": "extending_modules description",
+  "name": "addition",
+  "description": "addition description",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
